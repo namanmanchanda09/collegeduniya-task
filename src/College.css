@@ -1,0 +1,171 @@
+.Layer-10 {
+    width: 637.3px;
+    height: 233.2px;
+}
+
+.Rectangle-1 {
+    width: 639px;
+    height: 377px;
+    border-radius: 3.8px;
+    box-shadow: 0 0 19px 0 var(--greyish-brown-10);
+    border: solid 0.2px var(--greyish-brown);
+    background-color: var(--white);
+  }
+
+  .Hansraj-College-Delhi-University {
+    width: 260px;
+    height: 17px;
+    font-family: DINPro;
+    font-size: 18.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.97;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--greyish-brown);
+  }
+
+  .Near-Vishwavidyalya-Metro-Station {
+    width: 196px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--greyish-brown);
+  }
+
+  .-Kms-away-from-bus-stand {
+    width: 157px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--greyish);
+  }
+
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk {
+    width: 358px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--greyish);
+  }
+  
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk .text-style-1 {
+    font-weight: bold;
+    color: var(--greeny-blue);
+  }
+  
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk .text-style-2 {
+    font-weight: bold;
+    color: var(--greyish-brown);
+  }
+
+  .Rectangle-4 {
+    width: 347px;
+    height: 35px;
+    background-color: #ccf5e7;
+  }
+
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+    width: 309px;
+    height: 13px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--greyish-brown);
+  }
+  
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-1 {
+    font-weight: 500;
+  }
+  
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-2 {
+    color: var(--greeny-blue-two);
+  }
+  
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-3 {
+    color: var(--water-blue);
+  }
+
+  .price {
+    width: 60px;
+    height: 20px;
+    font-family: DINPro;
+    font-size: 28.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.89;
+    letter-spacing: normal;
+    text-align: center;
+    color: #dd1c26;
+
+  }
+  
+  .price .text-style-1 {
+    font-family: MyriadPro;
+    
+  }
+
+  .custom-a{
+      
+      display: flex;
+      flex-direction: row;
+
+}
+
+.Free-Cancellation {
+    width: 101px;
+    height: 10px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--greeny-blue);
+  }
+
+  .Free-Wi-Fi {
+    width: 60px;
+    height: 10px;
+    font-family: DINPro;
+    font-size: 13.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--greeny-blue);
+  }
+
+  .custom-b{
+      display: flex;
+      flex-direction: row-reverse;
+  }
