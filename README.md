@@ -1,3 +1,3 @@
-# Collegeduniya fron-end task
+# Collegeduniya front-end task
 
-The website is hosted at [link](https://collegeduniya-namanmanchanda.netlify.app).
+Please ignore the github pages link. The website is hosted [here](https://collegeduniya-namanmanchanda.netlify.app).
